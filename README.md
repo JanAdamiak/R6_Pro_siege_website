@@ -1,2 +1,2 @@
 # R6_Pro_siege_website
-Website with stats for a professional games in video game!
+Website with stats of professional players at pro tournaments in a video game!
